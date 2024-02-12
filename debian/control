@@ -1,0 +1,11 @@
+Package: cfddns
+Version: [version]
+Section: net
+Priority: extra
+Architecture: all
+Maintainer: Awayume <dev@awayume.jp>
+Bugs: https://github.com/Awayume/cfddns/issues
+Installed-Size: [installed size]
+Depends: python3 (>= 3.9), python3-systemd
+Homepage: https://github.com/Awayume/cfddns
+Description: A Cloudflare DDNS client written in Python.
